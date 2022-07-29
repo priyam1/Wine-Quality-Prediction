@@ -15,5 +15,5 @@ Training Data set is used to train the model in parallel on multiple EC2 instanc
 7.	Run Training.py as “spark-submi Training.py” – This will train and save the model in S3 under data-output and prints the F1 score.
 8.	Login to the docker hub repo
 9.	In the master run docker to build a container which will take the repository from the Docker hub and create the container.
-10.	The container runs the validationData.csv and prints Test Error Link to docker hub image.
-![image](https://user-images.githubusercontent.com/90930740/181677529-916245c9-e485-4d3e-b54d-a388bdd03658.png)
+10.	The container runs the validationData.csv and prints Test Error Link to docker hub image : [docker hub](https://hub.docker.com/r/priyam001/wine).
+
